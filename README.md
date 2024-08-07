@@ -1,4 +1,4 @@
-# 🛡️ Privacy Protector
+# 🛡️ Data Privacy Protector
 
 Privacy Protector is a Python tool designed to replace sensitive information in text with fake data. It utilizes regular expressions to identify and replace various types of sensitive information, such as names, phone numbers, email addresses, and more.
 
